@@ -22,3 +22,8 @@ Developing osu! Trainer
 -----------------------
 
 Build the project with the included Makefile and submit me a pull request with any changes.  
+
+Screenshots
+-----------
+
+![osu-trainer](https://raw.githubusercontent.com/Phosphoresce/osu-trainer/master/osu-trainer.png)
