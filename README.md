@@ -18,7 +18,7 @@ If you would like to run this, feel free to clone the repository and build the b
 
 Thats pretty much it so far!
 
-Developing Autocannon
----------------------
+Developing osu! Trainer
+-----------------------
 
 Build the project with the included Makefile and submit me a pull request with any changes.  
